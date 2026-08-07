@@ -39,7 +39,7 @@
     "@notion-kit/icons": "workspace:*",
     "@notion-kit/shadcn": "workspace:*",
     "@notion-kit/utils": "workspace:*",
-    "mermaid": "^11.12.2",
+    "mermaid": "^11.16.1",
     "prettier": "catalog:",
     "shiki": "^3.22.0"
   },
