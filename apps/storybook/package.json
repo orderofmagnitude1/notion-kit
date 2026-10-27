@@ -72,7 +72,7 @@
     "msw-storybook-addon": "catalog:test",
     "playwright": "catalog:test",
     "prettier": "catalog:",
-    "storybook": "^10.3.5",
+    "storybook": "^10.6.2",
     "storybook-react-rsbuild": "^3.2.3",
     "tailwindcss": "catalog:tailwind-v4",
     "typescript": "catalog:",
