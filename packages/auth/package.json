@@ -42,7 +42,7 @@
     "@t3-oss/env-core": "catalog:env",
     "@vercel/postgres": "^0.10.0",
     "axios": "^1.13.6",
-    "better-auth": "^1.6.11",
+    "better-auth": "^1.7.7",
     "drizzle-orm": "^0.45.1",
     "stripe": "catalog:stripe",
     "ua-parser-js": "^2.0.9",
